@@ -1,5 +1,6 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: pink
+Favorite food: tofu
+Favorite musician/band:biili eiilish 
+Favorite movie: deadpool
+Requested grade in the course:not bellow 100
+ 
